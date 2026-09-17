@@ -70,7 +70,7 @@ CARDS = [
     ("Nova Mech", "Эксклюзивный", 190, 100, "https://kommodo.ai/i/f0zCNBACRLy7RwCjxnOG"),
     ("Spider Noob 2.0", "Эксклюзивный", 125, 100, "https://kommodo.ai/i/jcfZMq9CCgEiNfmsfmuG"),
     ("Guest Woman", "Эксклюзивный", 105, 100, "https://kommodo.ai/i/Jqq6TwsfSF6kCNSIwzm4"),
-    ("Upgraded Large Noob", "Эксклюзивный", 45, 100, "https://www.image2url.com/r2/default/images/1789617233534-b8a8a05c-7e1c-40e2-8cb7-60935d5997f7.jpg"),
+    ("Upgraded Large Noob", "Эксклюзивный", 45, 100, "https://www.image2url.com/r2/default/images/1789617153245-0f38dbfc-4683-40af-b773-95089ce7a172.jpg"),
 ]
 
 RARITY_FIX = {
